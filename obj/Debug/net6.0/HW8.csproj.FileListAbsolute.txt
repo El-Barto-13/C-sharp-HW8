@@ -1,0 +1,15 @@
+D:\УЧЁБА\GB учеба\C# (семинары)\C#HomeWork\HW8\bin\Debug\net6.0\HW8.exe
+D:\УЧЁБА\GB учеба\C# (семинары)\C#HomeWork\HW8\bin\Debug\net6.0\HW8.deps.json
+D:\УЧЁБА\GB учеба\C# (семинары)\C#HomeWork\HW8\bin\Debug\net6.0\HW8.runtimeconfig.json
+D:\УЧЁБА\GB учеба\C# (семинары)\C#HomeWork\HW8\bin\Debug\net6.0\HW8.dll
+D:\УЧЁБА\GB учеба\C# (семинары)\C#HomeWork\HW8\bin\Debug\net6.0\HW8.pdb
+D:\УЧЁБА\GB учеба\C# (семинары)\C#HomeWork\HW8\obj\Debug\net6.0\HW8.csproj.AssemblyReference.cache
+D:\УЧЁБА\GB учеба\C# (семинары)\C#HomeWork\HW8\obj\Debug\net6.0\HW8.GeneratedMSBuildEditorConfig.editorconfig
+D:\УЧЁБА\GB учеба\C# (семинары)\C#HomeWork\HW8\obj\Debug\net6.0\HW8.AssemblyInfoInputs.cache
+D:\УЧЁБА\GB учеба\C# (семинары)\C#HomeWork\HW8\obj\Debug\net6.0\HW8.AssemblyInfo.cs
+D:\УЧЁБА\GB учеба\C# (семинары)\C#HomeWork\HW8\obj\Debug\net6.0\HW8.csproj.CoreCompileInputs.cache
+D:\УЧЁБА\GB учеба\C# (семинары)\C#HomeWork\HW8\obj\Debug\net6.0\HW8.dll
+D:\УЧЁБА\GB учеба\C# (семинары)\C#HomeWork\HW8\obj\Debug\net6.0\refint\HW8.dll
+D:\УЧЁБА\GB учеба\C# (семинары)\C#HomeWork\HW8\obj\Debug\net6.0\HW8.pdb
+D:\УЧЁБА\GB учеба\C# (семинары)\C#HomeWork\HW8\obj\Debug\net6.0\HW8.genruntimeconfig.cache
+D:\УЧЁБА\GB учеба\C# (семинары)\C#HomeWork\HW8\obj\Debug\net6.0\ref\HW8.dll
